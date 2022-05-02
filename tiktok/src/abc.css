@@ -1,0 +1,9 @@
+.Modal {
+    visibility:hidden;
+    color : red;
+    border: solid;
+}
+.ShowHideModal {
+    visibility: visible;
+    opacity: 1;
+}
